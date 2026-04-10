@@ -6,7 +6,7 @@
         and improving my skills every day.
       </p>
       <p>
-        🚀 Goal: Become a professional full-stack developer <br/>
+        🚀 Goal: Become a Junior developer <br/>
         💡 Currently working on: E-commerce projects <br/>
         📍 Based in: Philippines
       </p>
