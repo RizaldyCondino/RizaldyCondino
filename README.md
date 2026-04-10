@@ -1,10 +1,5 @@
 
-
-<table>
-  <tr>
-    
-    <td valign="top" style="padding-left: 20px;">
-      <h2>👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
       <p>
         I'm a passionate aspiring <b>Junior Developer</b> currently learning 
         <b>Laravel, Vue.js, and React</b>. I enjoy building real-world projects 
@@ -15,9 +10,6 @@
         💡 Currently working on: E-commerce projects <br/>
         📍 Based in: Philippines
       </p>
-    </td>
-  </tr>
-</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
