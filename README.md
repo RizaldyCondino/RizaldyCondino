@@ -2,12 +2,7 @@
 
 <table>
   <tr>
-    <td width="220" valign="top">
-      <img src="https://github.com/user-attachments/assets/51baf95f-2e1e-4937-bea0-e706d4eab2c3" 
-           width="220" 
-           height="220"
-           style="border-radius: 50%; object-fit: cover; border: 3px solid #fff;" />
-    </td>
+    
     <td valign="top" style="padding-left: 20px;">
       <h2>👨‍💻 About Me</h2>
       <p>
