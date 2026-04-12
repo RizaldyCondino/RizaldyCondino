@@ -1,4 +1,4 @@
-
+<img width="1515" height="1079" alt="image" src="https://github.com/user-attachments/assets/1110f5e6-7bbf-4b82-a40a-682f1296aa55" />
 <h2>👨‍💻 About Me</h2>
       <p>
         I'm a passionate aspiring <b>Junior Developer</b> currently learning 
@@ -64,6 +64,8 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 ---
 
+
+
 ### 📦 Product Management System
 - CRUD system for managing products, categories, and brands
 - Built with **Laravel + MySQL**
@@ -74,8 +76,25 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 ---
 
-### 🔍 (Optional) Add More Projects
-- You can keep adding more here as you build!
+📦 Listing App (Laravel + Vue)
+A full-stack listing management system built using Laravel 11, Vue.js, and Inertia.js. It allows users to manage products, categories, and brands with role-based access for admin and users.
+
+
+
+Actual Turtorial Link: https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
+By: Learn with Jon
+Features:
+CRUD operations for listings
+Authentication system
+Admin dashboard
+Search & filtering
+Dark mode
+Profile management
+
+Tech Stack: Laravel, Vue.js, Inertia.js, MySQL, Tailwind CSS
+<img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
+What I learned:
+I learned how to build a full-stack web application using modern tools, manage database relationships, implement authentication and roles, and design interactive UI components.
 
 
 
