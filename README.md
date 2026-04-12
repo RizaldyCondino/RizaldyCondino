@@ -68,7 +68,7 @@ This project is currently under development and will continue to be improved wit
 A full-featured Employee Management System designed to handle core HR operations such as employee records, departments, leave requests, payroll, attendance tracking, and company announcements.
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships
- - 🔗 Photo:
+🚀 Project Preview
  <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
 - 💻 Repo: https://github.com/RizaldyCondino/-Employee-Management-System/tree/main
  
