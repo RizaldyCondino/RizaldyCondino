@@ -1,4 +1,3 @@
-<img width="1515" height="1079" alt="image" src="https://github.com/user-attachments/assets/1110f5e6-7bbf-4b82-a40a-682f1296aa55" />
 <h2>👨‍💻 About Me</h2>
       <p>
         I'm a passionate aspiring <b>Junior Developer</b> currently learning 
