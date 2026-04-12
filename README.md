@@ -65,14 +65,27 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 
 
-### 📦 Employee Management System
-- CRUD system for managing products, categories, and brands
+📦 Employee Management System
+A full-featured Employee Management System designed to handle core HR operations such as employee records, departments, leave requests, payroll, attendance tracking, and company announcements.
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships
  - 🔗 Photo:
  <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
+ - 💻 Repo: (add your repo link here)
+ 
+🚀 Features
+👨‍💼 Employee Management (CRUD)
+🏢 Department Management
+📝 Leave Management System (request & approval workflow)
+💰 Payroll Management
+📊 Attendance Tracking System
+📢 Company Announcements
 
-- 💻 Repo: (add your repo link here)
+🛠️ Tech Stack
+Laravel (Backend Framework)
+MySQL (Database)
+Blade (Server-side UI)
+Backend-focused architecture
 
 ---
 
