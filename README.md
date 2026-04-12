@@ -65,11 +65,12 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 
 
-### 📦 Product Management System
+### 📦 Employee Management System
 - CRUD system for managing products, categories, and brands
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships
- - 🔗 Demo:
+ - 🔗 Photo:
+ <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
 
 - 💻 Repo: (add your repo link here)
 
