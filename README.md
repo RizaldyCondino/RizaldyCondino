@@ -37,7 +37,7 @@
 - CRUD system for managing products, categories, and brands
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships  
-- 🔗 Demo: 
+- 🔗 Demo: ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
 - 💻 Repo: (add your repo link here)
 
 ---
