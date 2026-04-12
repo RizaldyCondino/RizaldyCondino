@@ -94,34 +94,15 @@ This application allows users to manage products, categories, and brands with ro
 
 🎥 Tutorial Reference
 
-Actual tutorial used:
+Actual Tutorial Used:
 https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
 
 By: Learn with Jon
 
-🚀 Features
-
-👨‍💼 Employee Management (Create, Read, Update, Delete)
-🏢 Department Management
-📝 Leave Management System (Request & Approval Workflow)
-💰 Payroll Management System
-📊 Attendance Tracking System
-📢 Company Announcements
-
-
-🛠️ Tech Stack
-
-🧩 Laravel (Backend Framework)
-⚛️ React.js (Frontend)
-🗄️ MySQL (Database)
-🔗 Inertia.js (Bridge for SPA-style experience)
-
-Project Preview
-<img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
+🚀 Project Preview
+<p align="center"> <img src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" width="100%" /> </p>
 🔗 Repository
-
-- 💻 Repo: https://github.com/RizaldyCondino/ListingApp
-
+💻 GitHub Repo: https://github.com/RizaldyCondino/ListingApp
 🎯 What I Learned
 
 Through this project, I learned how to:
@@ -130,8 +111,9 @@ Build a full-stack web application using modern tools
 Manage database relationships effectively
 Implement authentication and role-based access control
 Design interactive and responsive UI components
-Work with Laravel + Vue integration using Inertia.js
+Work with Laravel + Vue.js integration using Inertia.js
 
+If you want, I can also help you upgrade this into a fully professional GitHub README (with badges, tech stack icons, features section, and deployment guide).
 
 
 
