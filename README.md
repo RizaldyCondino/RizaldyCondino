@@ -25,10 +25,10 @@
 
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
 
-🔗 **[Demo](https://youtu.be/7Sop-O-YO8Q)**
+🔗 **[Demo:Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
 
 -  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
-- 💻 Repo: https://github.com/RizaldyCondino/Ecommerce
+- 💻 **Project Repository:** https://github.com/RizaldyCondino/Ecommerce
 
 Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
 
@@ -70,7 +70,7 @@ A full-featured Employee Management System designed to handle core HR operations
 - 📌 Focus: Backend logic & database relationships
 🚀 Project Preview
  <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
-- 💻 Repo: https://github.com/RizaldyCondino/-Employee-Management-System/tree/main
+- 💻 **Project Repository:** [Employee Management System](https://github.com/RizaldyCondino/-Employee-Management-System/tree/main)
  
 🚀 Features
 - 👨‍💼 Employee Management  
@@ -103,7 +103,7 @@ By: Learn with Jon
 🚀 Project Preview
 <p align="center"> <img src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" width="100%" /> </p>
 🔗 Repository
-💻 GitHub Repo: https://github.com/RizaldyCondino/ListingApp
+💻 **Project Repository:** [Listing App](https://github.com/RizaldyCondino/ListingApp)
 🎯 What I Learned
 
 Through this project, I learned how to:
