@@ -101,7 +101,8 @@ By: Learn with Jon
 
 🚀 Project Preview
 <p align="center"> <img src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" width="100%" /> </p>
-💻 **GitHub Repository:** [Listing App](https://github.com/RizaldyCondino/ListingApp)
+💻 <b>GitHub Repository:</b> 
+<a href="https://github.com/RizaldyCondino/ListingApp">Listing App</a>
 🎯 What I Learned
 
 Through this project, I learned how to:
