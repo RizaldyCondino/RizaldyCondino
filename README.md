@@ -81,7 +81,6 @@ A full-stack listing management system built using Laravel 11, Vue.js, and Inert
 
 
 Actual Turtorial Link: https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
-
 By: Learn with Jon
 Features:
 CRUD operations for listings
