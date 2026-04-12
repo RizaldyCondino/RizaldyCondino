@@ -100,19 +100,21 @@ https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWA
 By: Learn with Jon
 
 🚀 Features
-CRUD operations for listings (products, categories, brands)
-Authentication system (login/register)
-Role-based access (Admin & User)
-Admin dashboard
-Search & filtering system
-Dark mode support
-Profile management
+
+👨‍💼 Employee Management (Create, Read, Update, Delete)
+🏢 Department Management
+📝 Leave Management System (Request & Approval Workflow)
+💰 Payroll Management System
+📊 Attendance Tracking System
+📢 Company Announcements
+
+
 🛠️ Tech Stack
-Laravel 11
-Vue.js
-Inertia.js
-MySQL
-Tailwind CSS
+
+🧩 Laravel (Backend Framework)
+⚛️ React.js (Frontend)
+🗄️ MySQL (Database)
+🔗 Inertia.js (Bridge for SPA-style experience)
 
 Project Preview
 <img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
