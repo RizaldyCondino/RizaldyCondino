@@ -101,7 +101,6 @@ By: Learn with Jon
 
 🚀 Project Preview
 <p align="center"> <img src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" width="100%" /> </p>
-🔗 Repository
 💻 **GitHub Repository:** [Listing App](https://github.com/RizaldyCondino/ListingApp)
 🎯 What I Learned
 
