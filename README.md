@@ -96,7 +96,7 @@ This application allows users to manage products, categories, and brands with ro
 
 🎥 <b>Actual Tutorial Used:</b>
 <a href="https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c" target="_blank">
-Listing App
+Listing App Project
 </a>
 
 By: Learn with Jon
