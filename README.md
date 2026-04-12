@@ -73,17 +73,18 @@ A full-featured Employee Management System designed to handle core HR operations
 - 💻 Repo: https://github.com/RizaldyCondino/-Employee-Management-System/tree/main
  
 🚀 Features
-👨‍💼 Employee Management 
-🏢 Department Management
-📝 Leave Management System (Request & Approval Workflow)
-💰 Payroll Management System
-📊 Attendance Tracking System
-📢 Company Announcements
+- 👨‍💼 Employee Management  
+- 🏢 Department Management  
+- 📝 Leave Management System (Request & Approval Workflow)  
+- 💰 Payroll Management System  
+- 📊 Attendance Tracking System  
+- 📢 Company Announcements  
+
 🛠️ Tech Stack
-🧩 Laravel (Backend Framework)
-⚛️ React.js (Frontend)
-🗄️ MySQL (Database)
-🔗 Inertia.js (Bridge for SPA-style experience)
+- 🧩 Laravel (Backend Framework)  
+- ⚛️ React.js (Frontend)  
+- 🗄️ MySQL (Database)  
+- 🔗 Inertia.js (SPA-style bridge)  
 
 ---
 
