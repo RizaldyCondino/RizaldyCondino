@@ -74,15 +74,6 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 ---
 
-### 🎨 Portfolio Website
-- Personal portfolio showcasing projects and skills
-- Built using **HTML, CSS, JavaScript**
-- 📌 Focus: UI/UX and responsive design  
-- 🔗 Live: (add your link here)  
-- 💻 Repo: (add your repo link here)
-
----
-
 ### 🔍 (Optional) Add More Projects
 - You can keep adding more here as you build!
 
