@@ -101,11 +101,12 @@ Vue.js
 Inertia.js
 MySQL
 Tailwind CSS
-💻 Project Preview
+
+Project Preview
 <img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
 🔗 Repository
 
-👉 https://github.com/RizaldyCondino/ListingApp
+- 💻 Repo: https://github.com/RizaldyCondino/ListingApp
 
 🎯 What I Learned
 
