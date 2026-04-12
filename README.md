@@ -61,7 +61,6 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 ---
 
 📦 Employee Management System
-
 📌 Status: 🟡 In Progress (Not yet completed)
 
 This project is currently under development and will continue to be improved with additional features and refinements.
