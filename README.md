@@ -94,10 +94,10 @@ A full-featured Employee Management System designed to handle core HR operations
 A full-stack listing management system built using Laravel 11, Vue.js, and Inertia.js.
 This application allows users to manage products, categories, and brands with role-based access for both admin and regular users.
 
-🎥 Tutorial Reference
-
-Actual Tutorial Used:
-https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
+🎥 <b>Actual Tutorial Used:</b>
+<a href="https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c" target="_blank">
+  Laravel + Vue Tutorial Playlist
+</a>
 
 By: Learn with Jon
 
