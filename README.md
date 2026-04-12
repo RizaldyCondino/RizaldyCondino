@@ -22,9 +22,41 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🚀 Recent Projects:
+
+### 🛒 E-Commerce Web App
+- Built using **Laravel + Vue.js**
+- Features: Product listing, filtering, cart system, checkout
+- 📌 Focus: Full-stack development & API integration  
+- 🔗 Demo: (add your link here)  
+- 💻 Repo: (add your repo link here)
+
+---
+
+### 📦 Product Management System
+- CRUD system for managing products, categories, and brands
+- Built with **Laravel + MySQL**
+- 📌 Focus: Backend logic & database relationships  
+- 🔗 Demo: 
+- 💻 Repo: (add your repo link here)
+
+---
+
+### 🎨 Portfolio Website
+- Personal portfolio showcasing projects and skills
+- Built using **HTML, CSS, JavaScript**
+- 📌 Focus: UI/UX and responsive design  
+- 🔗 Live: (add your link here)  
+- 💻 Repo: (add your repo link here)
+
+---
+
+### 🔍 (Optional) Add More Projects
+- You can keep adding more here as you build!
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
