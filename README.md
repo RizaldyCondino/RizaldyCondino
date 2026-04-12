@@ -58,10 +58,6 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 🔗 **Demo / Source Code:**
 (Add your GitHub or live demo link here)
 
-👍 If you like this project, don’t forget to like, share, and subscribe!
-
-#Laravel #VueJS #InertiaJS #Stripe #Ecommerce #WebDevelopment
-
 -  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
 - 💻 Repo: (add your repo link here)
 
