@@ -76,26 +76,46 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 ---
 
 📦 Listing App (Laravel + Vue)
-A full-stack listing management system built using Laravel 11, Vue.js, and Inertia.js. It allows users to manage products, categories, and brands with role-based access for admin and users.
 
+A full-stack listing management system built using Laravel 11, Vue.js, and Inertia.js.
+This application allows users to manage products, categories, and brands with role-based access for both admin and regular users.
 
+🎥 Tutorial Reference
 
-Actual Turtorial Link: https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
+Actual tutorial used:
+https://www.youtube.com/watch?v=NZUspvmsNfw&list=PL38wFHH4qYZUdIKP9jG371N3G4kbWAg2c
+
 By: Learn with Jon
-Features:
-CRUD operations for listings
-Authentication system
+
+🚀 Features
+CRUD operations for listings (products, categories, brands)
+Authentication system (login/register)
+Role-based access (Admin & User)
 Admin dashboard
-Search & filtering
-Dark mode
+Search & filtering system
+Dark mode support
 Profile management
+🛠️ Tech Stack
+Laravel 11
+Vue.js
+Inertia.js
+MySQL
+Tailwind CSS
+💻 Project Preview
+<img width="1515" height="1079" alt="Listing App Screenshot" src="https://github.com/RizaldyCondino/ListingApp/assets/preview" />
+🔗 Repository
 
-Tech Stack: Laravel, Vue.js, Inertia.js, MySQL, Tailwind CSS
-<img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
-- 💻 Repo: https://github.com/RizaldyCondino/ListingApp
+👉 https://github.com/RizaldyCondino/ListingApp
 
-What I learned:
-I learned how to build a full-stack web application using modern tools, manage database relationships, implement authentication and roles, and design interactive UI components.
+🎯 What I Learned
+
+Through this project, I learned how to:
+
+Build a full-stack web application using modern tools
+Manage database relationships effectively
+Implement authentication and role-based access control
+Design interactive and responsive UI components
+Work with Laravel + Vue integration using Inertia.js
 
 
 
