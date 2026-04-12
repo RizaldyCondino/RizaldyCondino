@@ -26,6 +26,11 @@
 
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
 
+🔗 **Demo / https://youtu.be/7Sop-O-YO8Q
+
+-  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
+- 💻 Repo: (add your repo link here)
+
 Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
 
 🚀 **Tech Stack Used:**
@@ -55,10 +60,7 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 * Creating responsive UI with Flowbite
 * Improving UX with SweetAlert notifications
 
-🔗 **Demo / https://youtu.be/7Sop-O-YO8Q
 
--  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
-- 💻 Repo: (add your repo link here)
 
 ---
 
