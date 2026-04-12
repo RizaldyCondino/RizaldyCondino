@@ -102,7 +102,7 @@ Inertia.js
 MySQL
 Tailwind CSS
 💻 Project Preview
-<img width="1515" height="1079" alt="Listing App Screenshot" src="https://github.com/RizaldyCondino/ListingApp/assets/preview" />
+<img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
 🔗 Repository
 
 👉 https://github.com/RizaldyCondino/ListingApp
