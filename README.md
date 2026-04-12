@@ -117,8 +117,6 @@ Implement authentication and role-based access control
 Design interactive and responsive UI components
 Work with Laravel + Vue.js integration using Inertia.js
 
-If you want, I can also help you upgrade this into a fully professional GitHub README (with badges, tech stack icons, features section, and deployment guide).
-
 
 
 
