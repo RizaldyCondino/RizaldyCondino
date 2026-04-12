@@ -15,10 +15,8 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
 
 
----
 [![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🚀 Recent Projects:
@@ -28,7 +26,7 @@
 🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
 
 -  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
-- 💻 **Project Repository:** https://github.com/RizaldyCondino/Ecommerce
+- 💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
 
 Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
 
@@ -70,7 +68,7 @@ A full-featured Employee Management System designed to handle core HR operations
 - 📌 Focus: Backend logic & database relationships
 🚀 Project Preview
  <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
-- 💻 **Project Repository:** [Employee Management System](https://github.com/RizaldyCondino/-Employee-Management-System/tree/main)
+- 💻 **GitHub Repository:** [Employee Management System](https://github.com/RizaldyCondino/-Employee-Management-System/tree/main)
  
 🚀 Features
 - 👨‍💼 Employee Management  
@@ -103,7 +101,7 @@ By: Learn with Jon
 🚀 Project Preview
 <p align="center"> <img src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" width="100%" /> </p>
 🔗 Repository
-💻 **Project Repository:** [Listing App](https://github.com/RizaldyCondino/ListingApp)
+💻 **GitHub Repository:** [Listing App](https://github.com/RizaldyCondino/ListingApp)
 🎯 What I Learned
 
 Through this project, I learned how to:
