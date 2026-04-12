@@ -92,7 +92,8 @@ Profile management
 
 Tech Stack: Laravel, Vue.js, Inertia.js, MySQL, Tailwind CSS
 <img width="1515" height="1079" alt="Image" src="https://github.com/user-attachments/assets/04bf28a8-4b2a-42b9-9ac6-d8d85adbe4c0" />
-- 💻 Repo: (add your repo link here)](https://github.com/RizaldyCondino/ListingApp)
+- 💻 Repo: https://github.com/RizaldyCondino/ListingApp
+
 What I learned:
 I learned how to build a full-stack web application using modern tools, manage database relationships, implement authentication and roles, and design interactive UI components.
 
