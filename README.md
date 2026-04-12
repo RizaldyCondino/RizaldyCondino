@@ -68,7 +68,8 @@ A full-featured Employee Management System designed to handle core HR operations
 - 📌 Focus: Backend logic & database relationships
 🚀 Project Preview
  <img width="1917" height="951" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
-💻 - 💻 GitHub Repository: [Employee Management System](https://github.com/RizaldyCondino/-Employee-Management-System/tree/main)
+
+💻 GitHub Repository: [Employee Management System](https://github.com/RizaldyCondino/-Employee-Management-System/tree/main)
 
 - 🚀 Features
 - 👨‍💼 Employee Management  
