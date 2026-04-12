@@ -28,7 +28,8 @@
 - Built using **Laravel + Vue.js**
 - Features: Product listing, filtering, cart system, checkout
 - 📌 Focus: Full-stack development & API integration  
-- 🔗 Demo: (add your link here)  
+- 🔗 Demo: 
+-  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
 - 💻 Repo: (add your repo link here)
 
 ---
@@ -38,7 +39,7 @@
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships
  - 🔗 Demo:
- ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
+
 - 💻 Repo: (add your repo link here)
 
 ---
