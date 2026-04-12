@@ -24,11 +24,44 @@
 
 # 🚀 Recent Projects:
 
-### 🛒 E-Commerce Web App
-- Built using **Laravel + Vue.js**
-- Features: Product listing, filtering, cart system, checkout
-- 📌 Focus: Full-stack development & API integration  
-- 🔗 Demo: 
+🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
+
+Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
+
+🚀 **Tech Stack Used:**
+
+* ⚙️ Laravel Breeze (Authentication)
+* 🎨 Vue.js (Frontend)
+* 🔗 Inertia.js (SPA experience without API complexity)
+* 💳 Stripe (Secure online payments)
+* 🎯 Flowbite (UI components & styling)
+* 🔔 SweetAlert2 (Beautiful alerts & notifications)
+
+✨ **Key Features:**
+
+* 🛍️ Product listing with categories & brand filtering
+* 🔎 Dynamic filtering with debounce search
+* 🛒 Add to cart & cart management system
+* 💰 Secure checkout with Stripe payment integration
+* 🔐 User authentication (Login/Register)
+* 📦 Order processing workflow
+* ⚡ Smooth SPA experience using Inertia.js
+
+📌 **What I Learned:**
+
+* Building a full-stack application with Laravel & Vue
+* Handling state and routing with Inertia.js
+* Integrating third-party payment systems (Stripe)
+* Creating responsive UI with Flowbite
+* Improving UX with SweetAlert notifications
+
+🔗 **Demo / Source Code:**
+(Add your GitHub or live demo link here)
+
+👍 If you like this project, don’t forget to like, share, and subscribe!
+
+#Laravel #VueJS #InertiaJS #Stripe #Ecommerce #WebDevelopment
+
 -  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
 - 💻 Repo: (add your repo link here)
 
