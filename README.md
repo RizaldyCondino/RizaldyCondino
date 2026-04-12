@@ -25,8 +25,9 @@
 
 🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
 
--  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
-- 💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
+ ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
+ 
+💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
 
 Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
 
