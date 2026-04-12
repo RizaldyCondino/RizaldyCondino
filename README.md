@@ -59,11 +59,7 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 * Creating responsive UI with Flowbite
 * Improving UX with SweetAlert notifications
 
-
-
 ---
-
-
 
 📦 Employee Management System
 📌 Status: 🟡 In Progress (Not yet completed)
@@ -86,9 +82,9 @@ A full-featured Employee Management System designed to handle core HR operations
 
 🛠️ Tech Stack
 Laravel (Backend Framework)
+React.js (Frontend)
 MySQL (Database)
-Blade (Server-side UI)
-Backend-focused architecture
+Inertia.js (if you are using it as the bridge)
 
 ---
 
