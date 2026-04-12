@@ -55,8 +55,7 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 * Creating responsive UI with Flowbite
 * Improving UX with SweetAlert notifications
 
-🔗 **Demo / Source Code:**
-(Add your GitHub or live demo link here)
+🔗 **Demo / https://youtu.be/7Sop-O-YO8Q
 
 -  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
 - 💻 Repo: (add your repo link here)
