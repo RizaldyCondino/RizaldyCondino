@@ -58,6 +58,9 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 * Creating responsive UI with Flowbite
 * Improving UX with SweetAlert notifications
 
+⚠️ Payment integration is currently in progress.
+The checkout flow and order creation are implemented, but live payment confirmation and stock updates after payment are still being finalized.
+
 ---
 
 📦 Employee Management System
