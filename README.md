@@ -24,8 +24,11 @@ HTML • CSS • JavaScript • PHP • Laravel • MySQL • Vue.js • React �
 🚀 Projects
 🛒 E-Commerce Platform | Laravel + Vue.js + Inertia + Stripe
 
-🔗 Demo: https://youtu.be/7Sop-O-YO8Q
-💻 GitHub: https://github.com/RizaldyCondino/Ecommerce
+🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
+
+ ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
+ 
+💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
 
 Built a full-stack e-commerce application that supports a complete online shopping experience—from product browsing to checkout.
 
