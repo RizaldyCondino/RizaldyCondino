@@ -1,14 +1,12 @@
-<h2>👨‍💻 About Me</h2>
-      <p>
-        I'm a passionate aspiring <b>Junior Developer</b> currently learning 
-        <b>Laravel, Vue.js, and React</b>. I enjoy building real-world projects 
-        and improving my skills every day.
-      </p>
-      <p>
-        🚀 Goal: Become a Junior developer <br/>
-        💡 Currently working on: E-commerce projects <br/>
-        📍 Based in: Philippines
-      </p>
+👨‍💻 About Me
+
+Full-stack developer with hands-on experience building real-world web applications using Laravel, Vue.js, and React.
+
+I focus on developing scalable backend systems, handling complex database relationships, and creating smooth user experiences with modern frontend tools.
+
+🚀 Built a full-featured e-commerce platform with authentication, product management, and payment integration
+💡 Currently expanding into React and Next.js for modern frontend development
+📍 Based in the Philippines
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
@@ -19,44 +17,37 @@
 
 [![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Recent Projects:
+💻 Tech Stack:
 
-🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
+HTML • CSS • JavaScript • PHP • Laravel • MySQL • Vue.js • React • TailwindCSS
 
-🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
+🚀 Projects
+🛒 E-Commerce Platform | Laravel + Vue.js + Inertia + Stripe
 
- ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
- 
-💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
+🔗 Demo: https://youtu.be/7Sop-O-YO8Q
+💻 GitHub: https://github.com/RizaldyCondino/Ecommerce
 
-Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
+Built a full-stack e-commerce application that supports a complete online shopping experience—from product browsing to checkout.
 
-🚀 **Tech Stack Used:**
+Key Features:
 
-* ⚙️ Laravel Breeze (Authentication)
-* 🎨 Vue.js (Frontend)
-* 🔗 Inertia.js (SPA experience without API complexity)
-* 💳 Stripe (Secure online payments)
-* 🎯 Flowbite (UI components & styling)
-* 🔔 SweetAlert2 (Beautiful alerts & notifications)
+User authentication and role-based access
+Product listing with category and brand filtering
+Dynamic search with debounce
+Shopping cart and cart management system
+Order processing workflow
+Stripe payment integration (test mode)
+Responsive UI using Vue.js and Flowbite
 
-✨ **Key Features:**
+What I handled:
 
-* 🛍️ Product listing with categories & brand filtering
-* 🔎 Dynamic filtering with debounce search
-* 🛒 Add to cart & cart management system
-* 💰 Secure checkout with Stripe payment integration
-* 🔐 User authentication (Login/Register)
-* 📦 Order processing workflow
-* ⚡ Smooth SPA experience using Inertia.js
+Designed backend architecture using Laravel
+Built and managed database relationships (products, orders, users)
+Implemented cart logic and checkout flow
+Integrated Stripe API for secure payments
+Developed interactive frontend using Vue + Inertia
 
-📌 **What I Learned:**
-
-* Building a full-stack application with Laravel & Vue
-* Handling state and routing with Inertia.js
-* Integrating third-party payment systems (Stripe)
-* Creating responsive UI with Flowbite
-* Improving UX with SweetAlert notifications
+This project demonstrates real-world full-stack development, including backend logic, frontend interaction, and third-party integration.
 
 ⚠️ Payment integration is currently in progress.
 The checkout flow and order creation are implemented, but live payment confirmation and stock updates after payment are still being finalized.
