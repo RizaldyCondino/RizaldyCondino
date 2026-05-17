@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, I'm Rizaldy Condino
 
-**Full-Stack Developer | Laravel • Vue • React | UI/UX Focused**
+**Full-Stack Developer | React, NextJs, TypScript, PostgreSQL | UI/UX Focused**
 
 ---
 
@@ -19,7 +19,7 @@ I specialize in developing robust backend systems and dynamic frontend interface
 ## 💼 What I’ve Built
 
 - 🚀 Developed a **full-featured e-commerce platform** with authentication, product management, and payment integration  
-- 🔐 Built secure and scalable backend systems using **Laravel + MySQL**  
+- 🔐 Built secure and scalable backend systems using **Laravel + databases**  
 - 🎨 Designed responsive and interactive frontends using **Vue.js, React, and TailwindCSS**  
 
 ---
@@ -49,6 +49,7 @@ I specialize in developing robust backend systems and dynamic frontend interface
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
