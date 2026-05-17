@@ -19,15 +19,5 @@ I focus on developing scalable backend systems, handling complex database relati
 
 💻 Tech Stack:
 
-HTML • CSS • JavaScript • PHP • Laravel • MySQL • Vue.js • React • TailwindCSS
-
-
-
-
-
-
-
-
-
-
+HTML • CSS • JavaScript • PHP • Laravel • MySQL • Vue.js • React • TailwindCSS 
 
