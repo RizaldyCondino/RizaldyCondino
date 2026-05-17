@@ -18,7 +18,7 @@ I specialize in developing robust backend systems and dynamic frontend interface
 
 ## 💼 What I’ve Built
 
-- 🚀 Developed a **full-featured e-commerce platform** with authentication, product management, and payment integration  
+- 🚀 Developed a Full Modern Ecommerce
 - 🔐 Built secure and scalable backend systems using **Laravel + databases**  
 - 🎨 Designed responsive and interactive frontends using **Vue.js, React, and TailwindCSS**  
 
