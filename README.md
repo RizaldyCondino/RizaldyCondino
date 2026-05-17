@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, I'm Rizaldy Condino
 
-**Full-Stack Developer | React, NextJs, TypScript, PostgreSQL | UI/UX Focused**
+**Full-Stack Developer | React, NextJs, TypScript, PostgreSQL 
 
 ---
 
