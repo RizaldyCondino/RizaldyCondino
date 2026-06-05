@@ -62,7 +62,7 @@ This webhook-driven architecture ensures that inventory updates only occur after
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
-
+<img src="https://github.com/user-attachments/assets/d59f9612-8baa-442a-a0d8-d5965bf903cf" style="width: 100%; height: auto;" />
 
 
 
