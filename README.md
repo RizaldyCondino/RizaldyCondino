@@ -44,6 +44,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🚀 Recent Projects:
+
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/003bdcb2-0485-4c32-898c-72feff642b9a" />
 
  # 🛒 E-Commerce OzCrtz  
@@ -62,11 +64,6 @@ This webhook-driven architecture ensures that inventory updates only occur after
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
-
-
-
-
-# 🚀 Recent Projects:
 
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
 
