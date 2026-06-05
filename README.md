@@ -3,7 +3,7 @@
        I'm an aspiring Junior FullStack who enjoys building modern, responsive, and functional web applications. I like turning ideas into clean and user-friendly interfaces while continuously learning and improving my skills as a developer.
       </p>
       <p>
-        🚀 Goal: Become a Junior developer <br/>
+        🚀 Goal: Become a Junior Fullstack developer <br/>
         💡 Currently working on: E-commerce projects <br/>
         📍 Based in: Philippines
       </p>
