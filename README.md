@@ -16,7 +16,7 @@
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/d59f9612-8baa-442a-a0d8-d5965bf903cf" />
  <h1>OzCrtz </h1>
 
-<img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
 # 🛒 E-Commerce OzCrtz Architecture Flow
 
