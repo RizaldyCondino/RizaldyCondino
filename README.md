@@ -77,9 +77,9 @@
 ## 🛠️ Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
-
 <h1>Architecture Flow</h1>
+
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
  
 Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
 
