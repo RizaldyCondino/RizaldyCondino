@@ -48,12 +48,12 @@
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/003bdcb2-0485-4c32-898c-72feff642b9a" />
 
- # 🛒 E-Commerce OzCrtz  
+# 🛒 E-Commerce OzCrtz  
 
- # Architecture Flow
-
- <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
-
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+ 
+<h1>Architecture Flow</h1>
+ 
 Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
 
 Before checkout, the application also validates that the user has provided a complete shipping address. This ensures that orders cannot be submitted without the necessary delivery information.
@@ -66,6 +66,7 @@ This webhook-driven architecture ensures that inventory updates only occur after
 
 
 # 🛒 E-Commerce ShopCrtz  
+
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/a9e6f48c-611f-40b6-9c84-c6f86784c48f" />
 
 🔗 **[Demo: ShopCrtz](https://shopcrtz.vercel.app/)**
