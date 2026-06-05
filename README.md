@@ -168,36 +168,6 @@ Welcome to my full-stack **E-Commerce Web Application** built using modern web t
 
 ---
 
-📦 Employee Management System
-📌 Status: 🟡 In Progress (Not yet completed)
-
-This project is currently under development and will continue to be improved with additional features and refinements.
-A full-featured Employee Management System designed to handle core HR operations such as employee records, departments, leave requests, payroll, attendance tracking, and company announcements.
-- Built with **Laravel + MySQL**
-- 📌 Focus: Backend logic & database relationships
-🚀 Project Preview
- <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
-
-💻 <b>GitHub Repository:</b> 
-<a href="https://github.com/RizaldyCondino/-Employee-Management-System/tree/main">Employee Management System</a>
-
-
-- 🚀 Features
-- 👨‍💼 Employee Management  
-- 🏢 Department Management  
-- 📝 Leave Management System (Request & Approval Workflow)  
-- 💰 Payroll Management System  
-- 📊 Attendance Tracking System  
-- 📢 Company Announcements  
-
-🛠️ Tech Stack
-- 🧩 Laravel (Backend Framework)  
-- ⚛️ React.js (Frontend)  
-- 🗄️ MySQL (Database)  
-- 🔗 Inertia.js (SPA-style bridge)  
-
----
-
 📦 Listing App (Laravel + Vue)
 
 A full-stack listing management system built using Laravel 11, Vue.js, and Inertia.js.
