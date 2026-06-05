@@ -44,7 +44,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d59f9612-8baa-442a-a0d8-d5965bf903cf" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/003bdcb2-0485-4c32-898c-72feff642b9a" />
 
  # 🛒 E-Commerce OzCrtz  
 
@@ -60,7 +60,7 @@ After a successful payment, Stripe sends a `checkout.session.completed` webhook 
 
 This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
 
 
@@ -114,7 +114,7 @@ A full-featured Employee Management System designed to handle core HR operations
 - Built with **Laravel + MySQL**
 - 📌 Focus: Backend logic & database relationships
 🚀 Project Preview
- <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
+ <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/7f297e1b-a34a-44bc-b8c2-9bd172142f39" />
 
 💻 <b>GitHub Repository:</b> 
 <a href="https://github.com/RizaldyCondino/-Employee-Management-System/tree/main">Employee Management System</a>
