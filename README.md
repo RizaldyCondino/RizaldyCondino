@@ -66,6 +66,13 @@ After a successful payment, Stripe sends a `checkout.session.completed` webhook 
 This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
 
 
+# 🛒 E-Commerce ShopCrtz  
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/a9e6f48c-611f-40b6-9c84-c6f86784c48f" />
+🚀 **Tech Stack Used:**
+
+🔗 **[Demo: ShopCrtz](https://shopcrtz.vercel.app/)**
+
+
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
 
 🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
