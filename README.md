@@ -1,8 +1,6 @@
 <h2>👨‍💻 About Me</h2>
       <p>
-        I'm a passionate aspiring <b>Junior Developer</b> currently learning 
-        <b>Laravel, Vue.js, and React</b>. I enjoy building real-world projects 
-        and improving my skills every day.
+       I'm an aspiring Junior FullStack who enjoys building modern, responsive, and functional web applications. I like turning ideas into clean and user-friendly interfaces while continuously learning and improving my skills as a developer.
       </p>
       <p>
         🚀 Goal: Become a Junior developer <br/>
