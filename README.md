@@ -50,6 +50,33 @@
 
 # 🛒 E-Commerce OzCrtz  
 
+ 🚀 Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+
+ ⚙️ Backend / Services
+ 
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
+
+ 🗄️ Database / CMS
+ 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+## 🧠 State & Data Flow
+- Zustand (Cart, UI state, favorites)
+- Server Actions / API Routes (Next.js)
+- Stripe Webhooks (Order & Inventory sync)
+
+## 🛠️ Tools
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
 <h1>Architecture Flow</h1>
@@ -64,30 +91,7 @@ After a successful payment, Stripe sends a `checkout.session.completed` webhook 
 
 This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
 
- 🚀 Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-
- ⚙️ Backend / Services
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
-
- 🗄️ Database / CMS
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-
-## 🧠 State & Data Flow
-- Zustand (Cart, UI state, favorites)
-- Server Actions / API Routes (Next.js)
-- Stripe Webhooks (Order & Inventory sync)
-
-## 🛠️ Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
