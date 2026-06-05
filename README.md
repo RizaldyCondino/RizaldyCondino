@@ -13,9 +13,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
 
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/d59f9612-8baa-442a-a0d8-d5965bf903cf" />
+ <h1>OzCrtz </h1>
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
-
 
 # 🛒 E-Commerce OzCrtz Architecture Flow
 
