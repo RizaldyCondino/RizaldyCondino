@@ -13,6 +13,22 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
 
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+
+
+# 🛒 E-Commerce OzCrtz Architecture Flow
+
+Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
+
+Before checkout, the application also validates that the user has provided a complete shipping address. This ensures that orders cannot be submitted without the necessary delivery information.
+
+Once validation passes, the application sends the authenticated user's cart data, selected product variants (including size and color selections), and shipping information to a secure server endpoint. The server creates a Stripe Checkout Session and returns the session URL to the client. The user is then redirected to Stripe's hosted checkout page, where payment is processed securely.
+
+After a successful payment, Stripe sends a `checkout.session.completed` webhook event to the backend. The webhook verifies the event's authenticity, creates the order record, and stores the complete order details. It then updates inventory quantities in Sanity, reducing stock based on the exact product variants purchased, including color and size combinations. Any applicable discounts are reflected in the final order calculation.
+
+This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
+
 # 💻 Tech Stack:
 
 ## 🚀 Frontend
