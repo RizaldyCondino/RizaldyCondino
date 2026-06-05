@@ -68,6 +68,7 @@ This webhook-driven architecture ensures that inventory updates only occur after
 
 # 🛒 E-Commerce ShopCrtz  
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/a9e6f48c-611f-40b6-9c84-c6f86784c48f" />
+
 A full-stack ecommerce web application built with modern technologies including Next.js, React, and TypeScript. The project demonstrates a complete online shopping system with product browsing, category filtering, authentication, shopping cart functionality, and secure payments using Stripe. It integrates a backend database for managing products and orders, along with state management for seamless user experience. The application follows production-ready practices and is deployed on Vercel.
 
 
