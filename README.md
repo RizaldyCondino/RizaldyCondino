@@ -1,40 +1,61 @@
+<h2>👨‍💻 About Me</h2>
+      <p>
+        I'm a passionate aspiring <b>Junior Developer</b> currently learning 
+        <b>Laravel, Vue.js, and React</b>. I enjoy building real-world projects 
+        and improving my skills every day.
+      </p>
+      <p>
+        🚀 Goal: Become a Junior developer <br/>
+        💡 Currently working on: E-commerce projects <br/>
+        📍 Based in: Philippines
+      </p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-🚀 Projects
-🛒 E-Commerce Platform | Laravel + Vue.js + Inertia + Stripe
+[![](https://visitcount.itsvg.in/api?id=RizaldyCondino&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔗 Demo: https://youtu.be/7Sop-O-YO8Q
-💻 GitHub: https://github.com/RizaldyCondino/Ecommerce
+# 🚀 Recent Projects:
+
+🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
+
 🔗 **[Demo: Ecommerce](https://youtu.be/7Sop-O-YO8Q)**
 
- ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
- 
-💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
+-  ![Image](https://github.com/user-attachments/assets/d72c3c48-c335-48c6-b5bd-c4540f6a350b)
+- 💻 **GitHub Repository:** [Ecommerce Project](https://github.com/RizaldyCondino/Ecommerce)
 
-Built a full-stack e-commerce application that supports a complete online shopping experience—from product browsing to checkout.
+Welcome to my full-stack **E-Commerce Web Application** built using modern web technologies! This project demonstrates a complete online shopping experience — from browsing products to secure checkout.
 
-Key Features:
+🚀 **Tech Stack Used:**
 
-User authentication and role-based access
-Product listing with category and brand filtering
-Dynamic search with debounce
-Shopping cart and cart management system
-Order processing workflow
-Stripe payment integration (test mode)
-Responsive UI using Vue.js and Flowbite
+* ⚙️ Laravel Breeze (Authentication)
+* 🎨 Vue.js (Frontend)
+* 🔗 Inertia.js (SPA experience without API complexity)
+* 💳 Stripe (Secure online payments)
+* 🎯 Flowbite (UI components & styling)
+* 🔔 SweetAlert2 (Beautiful alerts & notifications)
 
-What I handled:
+✨ **Key Features:**
 
-Designed backend architecture using Laravel
-Built and managed database relationships (products, orders, users)
-Implemented cart logic and checkout flow
-Integrated Stripe API for secure payments
-Developed interactive frontend using Vue + Inertia
+* 🛍️ Product listing with categories & brand filtering
+* 🔎 Dynamic filtering with debounce search
+* 🛒 Add to cart & cart management system
+* 💰 Secure checkout with Stripe payment integration
+* 🔐 User authentication (Login/Register)
+* 📦 Order processing workflow
+* ⚡ Smooth SPA experience using Inertia.js
 
-This project demonstrates real-world full-stack development, including backend logic, frontend interaction, and third-party integration.
+📌 **What I Learned:**
 
-⚠️ Payment integration is currently in progress.
-The checkout flow and order creation are implemented, but live payment confirmation and stock updates after payment are still being finalized.
+* Building a full-stack application with Laravel & Vue
+* Handling state and routing with Inertia.js
+* Integrating third-party payment systems (Stripe)
+* Creating responsive UI with Flowbite
+* Improving UX with SweetAlert notifications
 
 ---
 
@@ -95,3 +116,5 @@ Manage database relationships effectively
 Implement authentication and role-based access control
 Design interactive and responsive UI components
 Work with Laravel + Vue.js integration using Inertia.js
+
+If you want, I can also help you upgrade this into a fully professional GitHub README (with badges, tech stack icons, features section, and deployment guide).
