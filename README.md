@@ -101,40 +101,34 @@ This webhook-driven architecture ensures that inventory updates only occur after
 
 🔗 **[Demo: ShopCrtz](https://shopcrtz.vercel.app/)**
 
+ 🚀 Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+
+ ⚙️ Backend / Services
+ 
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
+
+ 🗄️ Database / CMS
+ 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+## 🧠 State & Data Flow
+- Zustand (Cart, UI state, favorites)
+- Server Actions / API Routes (Next.js)
+- Stripe Webhooks (Order & Inventory sync)
+
+## 🛠️ Tools
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 A full-stack ecommerce web application built with modern technologies including Next.js, React, and TypeScript. The project demonstrates a complete online shopping system with product browsing, category filtering, authentication, shopping cart functionality, and secure payments using Stripe. It integrates a backend database for managing products and orders, along with state management for seamless user experience. The application follows production-ready practices and is deployed on Vercel.
-
-
-#🛠️ Tech Stack
-
-🚀 Frontend
-Next.js – Full-stack React framework for SSR and routing
-React – UI component-based library
-TypeScript – Type-safe JavaScript development
-Tailwind CSS – Utility-first styling for modern UI
-
-⚙️ Backend
-Next.js API Routes – Server-side logic and endpoints
-Node.js – JavaScript runtime environment
-
-🗄️ Database & CMS
-Prisma – Type-safe ORM for database management
-Neon / PostgreSQL – Serverless database solution
-Sanity.io – Headless CMS for product/content management
-
-🔐 Authentication
-Clerk – User authentication and session management
-
-💳 Payments
-Stripe – Secure payment processing and checkout system
-
-🧠 State Management
-Zustand – Lightweight global state management (cart, UI state)
-
-☁️ Deployment
-Vercel – Hosting and deployment for Next.js applications
-GitHub – Version control and CI/CD integration
-
-
 
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
 
