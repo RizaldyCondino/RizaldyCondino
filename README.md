@@ -14,11 +14,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/rizaldy.condino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rizaldy-condino-b24b3a20b/) 
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/d59f9612-8baa-442a-a0d8-d5965bf903cf" />
- <h1>OzCrtz </h1>
+
+ # 🛒 E-Commerce OzCrtz  
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
-# 🛒 E-Commerce OzCrtz Architecture Flow
+# Architecture Flow
 
 Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
 
