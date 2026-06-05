@@ -52,6 +52,8 @@
 
  # Architecture Flow
 
+ <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+
 Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
 
 Before checkout, the application also validates that the user has provided a complete shipping address. This ensures that orders cannot be submitted without the necessary delivery information.
@@ -62,7 +64,7 @@ After a successful payment, Stripe sends a `checkout.session.completed` webhook 
 
 This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
+
 
 
 🛒 **E-Commerce Web App | Laravel + Vue.js + Inertia + Stripe**
