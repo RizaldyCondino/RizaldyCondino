@@ -52,6 +52,18 @@
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5bde018-8c19-48b4-b361-c9cc9dab569b" />
 
+<h1>Architecture Flow</h1>
+ 
+Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
+
+Before checkout, the application also validates that the user has provided a complete shipping address. This ensures that orders cannot be submitted without the necessary delivery information.
+
+Once validation passes, the application sends the authenticated user's cart data, selected product variants (including size and color selections), and shipping information to a secure server endpoint. The server creates a Stripe Checkout Session and returns the session URL to the client. The user is then redirected to Stripe's hosted checkout page, where payment is processed securely.
+
+After a successful payment, Stripe sends a `checkout.session.completed` webhook event to the backend. The webhook verifies the event's authenticity, creates the order record, and stores the complete order details. It then updates inventory quantities in Sanity, reducing stock based on the exact product variants purchased, including color and size combinations. Any applicable discounts are reflected in the final order calculation.
+
+This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
+
  🚀 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -76,17 +88,7 @@
 
 ## 🛠️ Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<h1>Architecture Flow</h1>
- 
-Users can browse products, categories, and product details without logging in, providing a seamless shopping experience for visitors. However, actions that require user-specific data—such as adding products to favorites, accessing saved favorites, managing account information, and proceeding to checkout—require authentication. When a user attempts to add a product to their favorites or start the checkout process, the application verifies that they are signed in. If they are not authenticated, they are redirected to the login flow.
 
-Before checkout, the application also validates that the user has provided a complete shipping address. This ensures that orders cannot be submitted without the necessary delivery information.
-
-Once validation passes, the application sends the authenticated user's cart data, selected product variants (including size and color selections), and shipping information to a secure server endpoint. The server creates a Stripe Checkout Session and returns the session URL to the client. The user is then redirected to Stripe's hosted checkout page, where payment is processed securely.
-
-After a successful payment, Stripe sends a `checkout.session.completed` webhook event to the backend. The webhook verifies the event's authenticity, creates the order record, and stores the complete order details. It then updates inventory quantities in Sanity, reducing stock based on the exact product variants purchased, including color and size combinations. Any applicable discounts are reflected in the final order calculation.
-
-This webhook-driven architecture ensures that inventory updates only occur after Stripe confirms a successful payment, preventing stock inconsistencies caused by abandoned or failed checkout attempts. Additionally, authenticated users can maintain personalized data such as favorites, shipping addresses, and order history across sessions, creating a more complete e-commerce experience.
 
 
 # 🛒 E-Commerce ShopCrtz  
