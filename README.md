@@ -70,25 +70,33 @@ This webhook-driven architecture ensures that inventory updates only occur after
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/a9e6f48c-611f-40b6-9c84-c6f86784c48f" />
 A full-stack ecommerce web application built with modern technologies including Next.js, React, and TypeScript. The project demonstrates a complete online shopping system with product browsing, category filtering, authentication, shopping cart functionality, and secure payments using Stripe. It integrates a backend database for managing products and orders, along with state management for seamless user experience. The application follows production-ready practices and is deployed on Vercel.
 
-🛠️ Tech Stack
+
+#🛠️ Tech Stack
+
 🚀 Frontend
 Next.js – Full-stack React framework for SSR and routing
 React – UI component-based library
 TypeScript – Type-safe JavaScript development
 Tailwind CSS – Utility-first styling for modern UI
+
 ⚙️ Backend
 Next.js API Routes – Server-side logic and endpoints
 Node.js – JavaScript runtime environment
+
 🗄️ Database & CMS
 Prisma – Type-safe ORM for database management
 Neon / PostgreSQL – Serverless database solution
 Sanity.io – Headless CMS for product/content management
+
 🔐 Authentication
 Clerk – User authentication and session management
+
 💳 Payments
 Stripe – Secure payment processing and checkout system
+
 🧠 State Management
 Zustand – Lightweight global state management (cart, UI state)
+
 ☁️ Deployment
 Vercel – Hosting and deployment for Next.js applications
 GitHub – Version control and CI/CD integration
