@@ -48,7 +48,7 @@
 
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/003bdcb2-0485-4c32-898c-72feff642b9a" />
 
-# 🛒 E-Commerce OzCrtz  
+# 🛒 E-Commerce OzCrtz  🔗 **[Demo: ShopCrtz](https://ozcrtz.vercel.app)**
 
  🚀 Frontend
 
