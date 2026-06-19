@@ -1,9 +1,9 @@
 <h2>👨‍💻 About Me</h2>
       <p>
-       I'm an aspiring Junior FullStack who enjoys building modern, responsive, and functional web applications. I like turning ideas into clean and user-friendly interfaces while continuously learning and improving my skills as a developer.
+       I'm an aspiring Junior Full Stack Developer Specializing in AI. who enjoys building modern, responsive, and functional web applications. I like turning ideas into clean and user-friendly interfaces while continuously learning and improving my skills as a developer.
       </p>
       <p>
-        🚀 Goal: Become a Junior Fullstack developer <br/>
+        🚀 Goal: Become a Junior Fullstack developer Specializing in AI <br/>
         💡 Currently working on: E-commerce projects <br/>
         📍 Based in: Philippines
       </p>
